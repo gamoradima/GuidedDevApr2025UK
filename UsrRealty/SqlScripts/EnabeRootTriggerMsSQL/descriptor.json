@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "003a3034-6326-f414-b2f5-d98d5a7de0ef",
+    "Name": "EnabeRootTriggerMsSQL",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1744967752000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
